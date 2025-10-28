@@ -89,7 +89,7 @@ It supports:
 ## 💻 Business Problems Solved Using MySQL  
 
 To support the analytical layer, **six business problems** were solved using optimized SQL queries.  
-These queries provided measurable business insights, feeding directly into Power BI dashboards.
+These queries provided measurable business insights, feeding directly into Power BI dashboards.[here](https://github.com/Manya-singh2001/GoodCabs-Operational-Performance-Analysis-/blob/main/Ad-hoc%20Business_requests.sql)
 
 ---
 
